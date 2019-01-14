@@ -2,7 +2,7 @@
 Too lazy to download it myself.
 # 使用说明
 * 打开浏览器的书签栏
-  * [Chrome内核浏览器用户请点击这里](chrome://bookmarks)
+  * [Chrome内核浏览器用户请点击这里](https://support.google.com/chrome/answer/188842?co=GENIE.Platform%3DDesktop&hl=zh-Hans)
   * [Firefox浏览器用户请点击这里](https://support.mozilla.org/zh-CN/kb/%E5%88%9B%E5%BB%BA%EF%BC%8C%E7%AE%A1%E7%90%86%E4%B9%A6%E7%AD%BE)
   * [Edge浏览器用户请点击这里](https://news.mydrivers.com/1/558/558816.htm)
   * [Internet Explorer(IE)浏览器用户请点击这里](https://www.zhihu.com/question/26784442)
@@ -17,7 +17,7 @@ Too lazy to download it myself.
 **如果您的脚本出现了问题,请提出Issue,我会尽力解决**
 # How to use the script
 - Open the Bookmark manage page.
-  - [Click here if you are a Chrome user](chrome://bookmarks)
+  - [Click here if you are a Chrome user](https://support.google.com/chrome/answer/188842?co=GENIE.Platform%3DDesktop&hl=en)
   - [Click here if you are a Firefox user](https://support.mozilla.org/en-US/kb/bookmarks-firefox)
   - [Click here if you are an Edge user](https://www.quora.com/Why-is-Microsoft-Edge-so-bad)
   - [Click here if you are a Internet Explorer(IE) user](https://www.quora.com/How-can-I-convince-somebody-to-stop-using-Internet-Explorer)
